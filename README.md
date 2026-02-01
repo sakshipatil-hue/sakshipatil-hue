@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm currently working on building academic and personal projects to strengthen my problem-solving skills.<br>I'm looking to collaborate on beginner-friendly open source projects, web development projects and problem solving based applicarions.<br>I'm looking for help with improving data structure & algorithms, clean coding practices, and real-world project developments.<br>I'm currently learning data structures & algorithm, Machine learning, SQL.<br>Ask me about C/C++, Python , DSA basics, Machine learning , Git & GitHub, and college tech projects.<br>I  believe consistency beats talent every single time.
-
+I am an AI and Machine learning student building academic and personal projects to strengthen my problem-solving and software development skills. 🎯
+I enjoy working on beginner-friendly open-source initiatives, web development projects, and applications focused on logical thinking and real-world problems.🔭Currently, I am learning Data Structures and Algorithms, Machine learning , Sql and core computer science fundamentals. 
+I have hands-on experience with C/C++, Python basics, DSA fundamentals, Git, GitHub, and college-level technical projects. 
+I strongly believe that consistency beats talent every single time.📌
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-patil-https://www.linkedin.com/in/sakshi-patil-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipatil7301@gmail.com) 
