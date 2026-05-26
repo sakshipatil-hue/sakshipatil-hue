@@ -1,8 +1,9 @@
 # 💫 About Me:
-I am an AI and Machine learning student building academic and personal projects to strengthen my problem-solving and software development skills. 🎯
-I enjoy working on beginner-friendly open-source initiatives, web development projects, and applications focused on logical thinking and real-world problems.🔭Currently, I am learning Data Structures and Algorithms, Machine learning , Sql and core computer science fundamentals. 
-I have hands-on experience with C/C++, Python basics, DSA fundamentals, Git, GitHub, and college-level technical projects. 
-I strongly believe that consistency beats talent every single time.📌
+I’m a 2nd-year AIML student with a strong interest in data analysis and real-world problem solving.  
+I enjoy working with data, exploring patterns, and turning raw information into meaningful insights that support better decisions.
+I have hands-on experience with Python, SQL, Power BI, and machine learning concepts, and I’ve built projects like AI Bazaar and Flipkart Sales & Returns Intelligence to apply my skills in practical scenarios.
+Currently, I’m expanding my knowledge in Excel and Snowflake while strengthening my foundation in data analytics and data engineering concepts.
+I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-patil-https://www.linkedin.com/in/sakshi-patil-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipatil7301@gmail.com) 
