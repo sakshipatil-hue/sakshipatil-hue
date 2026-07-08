@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a 2nd-year AIML student with a strong interest in data analysis and real-world problem solving.  
+I’m a AIML student with a strong interest in data analysis and real-world problem solving.  
 I enjoy working with data, exploring patterns, and turning raw information into meaningful insights that support better decisions.
 I have hands-on experience with Python, SQL, Power BI, and machine learning concepts, and I’ve built projects like AI Bazaar( Smart Bazaar Assisstant) and Flipkart Sales & Returns Intelligence to apply my skills in practical scenarios.
 Currently, I’m expanding my knowledge in Excel and Snowflake while strengthening my foundation in data analytics and data engineering concepts.
