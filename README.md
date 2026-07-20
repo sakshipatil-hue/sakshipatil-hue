@@ -1,21 +1,66 @@
-# 💫 About Me:
-I’m a AIML student with a strong interest in data analysis and real-world problem solving.  
-I enjoy working with data, exploring patterns, and turning raw information into meaningful insights that support better decisions.
-I have hands-on experience with Python, SQL, Power BI, and machine learning concepts, and I’ve built projects like AI Bazaar( Smart Bazaar Assisstant) and Flipkart Sales & Returns Intelligence to apply my skills in practical scenarios.
-Currently, I’m expanding my knowledge in Excel and Snowflake while strengthening my foundation in data analytics and data engineering concepts.
-I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
+<h1 align="center">Hi there 👋 I'm Sakshi Patil</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-patil-https://www.linkedin.com/in/sakshi-patil-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipatil7301@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=AIML+Student+%40+IIST+Indore;Turning+Raw+Data+Into+Decisions;Building+Real-World+ML+%26+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Engineering" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&theme=dark&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil-hue&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&theme=dark)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-patil-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sakshipatil-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm an AI & ML student with a strong interest in data analysis and real-world problem solving. I enjoy working with data, exploring patterns, and turning raw information into insights that support better decisions.
+
+I've built end-to-end projects spanning **web scraping, data warehousing, and BI dashboards** — from a real Naukri.com job market pipeline to a voice-first AI assistant for Indian shopkeepers. Currently deepening my skills in Excel and Snowflake while sharpening my data engineering foundations.
+
+🎯 Currently targeting **Data Analyst / Business Analyst** internship roles.
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🛍️ **[AI Bazaar](#)** | Voice-first, multilingual (Hindi, Tamil, Gujarati, Telugu, English) AI assistant helping Indian shopkeepers manage inventory, billing, and voice-based data entry. Built for AWS "AI for Bharat" Hackathon. | FastAPI · Supabase · Vercel · Render |
+| 📊 **[Flipkart Sales & Returns Intelligence Dashboard](#)** | Star-schema data warehouse (5 tables) analyzing sales & returns patterns, with a full Power BI dashboard on top of a Kaggle + synthetic dataset (~100K orders). | MySQL · Power BI · DAX |
+| 📈 **[India Job Market Intelligence Platform](#)** | Real Selenium scraper pulling live Naukri.com listings into a MySQL warehouse (727 listings, 534 companies, 38 skills, 10 cities), with 6 analytical SQL views + Power BI dashboard. | Python · Selenium · MySQL · Power BI |
+| 🛰️ **[Nakshatra-Kavach](#)** | Space weather impact intelligence system for satellites — built for a hackathon, adapted for ISRO's Build-a-thon 2026. | Python |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil-hue&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+<p align="center"><i>📌 Open to Data Analyst / Business Analyst internship opportunities — let's connect!</i></p>
