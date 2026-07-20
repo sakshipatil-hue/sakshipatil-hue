@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6C5CE7&height=200&section=header&text=Sakshi%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Data%20Analyst%20in%20the%20Making&descAlignY=55&descSize=20" width="100%"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Decisions;Building+Real-World+ML+%26+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Engineering" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/PASTE-YOUR-FULL-USERNAME-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6C5CE7&height=180&section=header&text=Sakshi%20Patil&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"> </p> <h3 align="center">AI & ML Student · Data Analyst in the Making</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Decisions;Building+Real-World+ML+%26+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Engineering" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/PASTE-YOUR-FULL-USERNAME-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 ### 🚀 About Me
 
 I'm an AI & ML student with a strong interest in data analysis and real-world problem solving. I enjoy working with data, exploring patterns, and turning raw information into insights that support better decisions.
@@ -33,10 +32,10 @@ I've built end-to-end projects spanning **web scraping, data warehousing, and BI
 **Machine Learning & Backend**
 <p>
   <img height="32" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img height="32" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img height="32" src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img height="32" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img height="32" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img height="32" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img height="32" src="https://img.shields.io/badge/Probability-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 ---
