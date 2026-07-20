@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/sakshi-patil-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
 <br>
 
 ### 👩‍💻 About
@@ -17,7 +16,6 @@ I'm an AI & ML student focused on data analysis and real-world problem solving. 
 
 I've built end-to-end projects spanning web scraping, data warehousing, and BI dashboards — from a real Naukri.com job market pipeline to a voice-first AI assistant for Indian shopkeepers.
 I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
-
 <br>
 
 ### 🛠️ Tech Stack
@@ -48,7 +46,6 @@ I focus on consistency, continuous learning, and building projects that reflect 
   <img height="30" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Statictics-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
-
 <br>
 
 ### 💼 Projects
@@ -68,7 +65,6 @@ Selenium scraper pulling live Naukri.com listings into a MySQL warehouse (727 li
 **Nakshatra-Kavach**
 Space weather impact intelligence system for satellites — built for a hackathon, adapted for ISRO's Build-a-thon 2026.
 `Python`
-
 <br>
 
 ### 📊 GitHub Stats
