@@ -1,20 +1,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=42&duration=1&pause=100000&color=6C5CE7&center=true&vCenter=true&width=500&height=70&lines=Sakshi+Patil" alt="Sakshi Patil" />
 </p>
+
+<p align="center">Turning raw data into decisions · Python · SQL · Power BI</p>
+
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-patil-https://www.linkedin.com/in/sakshi-patil-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshipatil0325@gmail.com) 
+  <a href="https://www.linkedin.com/in/sakshi-patil-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-
-### About me
-
-I’m a AIML student with a strong interest in data analysis and real-world problem solving.  
-I enjoy working with data, exploring patterns, and turning raw information into meaningful insights that support better decisions.
-I have hands-on experience with Python, SQL, Power BI, and machine learning concepts, and I’ve built projects like AI Bazaar( Smart Bazaar Asistant) and Flipkart Sales & Returns Intelligence to apply my skills in practical scenarios.
-Currently, I’m expanding my knowledge in Excel and Snowflake while strengthening my foundation in data analytics and data engineering concepts.
-I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
 <br>
 
-### Tech Stack
+### 👩‍💻 About
+
+I'm an AI & ML student focused on data analysis and real-world problem solving. I like working with data, finding patterns, and turning raw information into insights that support better decisions.
+
+I've built end-to-end projects spanning web scraping, data warehousing, and BI dashboards — from a real Naukri.com job market pipeline to a voice-first AI assistant for Indian shopkeepers.
+I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
+
+<br>
+
+### 🛠️ Tech Stack
 
 **Languages & Databases**
 <p>
@@ -37,15 +43,15 @@ I focus on consistency, continuous learning, and building projects that reflect 
 **ML & Backend**
 <p>
   <img height="30" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Probability-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Probability-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img height="30" src="https://img.shields.io/badge/Statictics-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 
 <br>
 
-### Projects
+### 💼 Projects
 
 **AI Bazaar**
 Voice-first, multilingual AI assistant helping Indian shopkeepers manage inventory, billing, and voice-based data entry. Built for AWS's "AI for Bharat" Hackathon.
@@ -63,10 +69,9 @@ Selenium scraper pulling live Naukri.com listings into a MySQL warehouse (727 li
 Space weather impact intelligence system for satellites — built for a hackathon, adapted for ISRO's Build-a-thon 2026.
 `Python`
 
-
 <br>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%">
@@ -78,3 +83,5 @@ Space weather impact intelligence system for satellites — built for a hackatho
 </p>
 
 <br>
+
+<p align="center"><sub>Open to Data Analyst / Business Analyst internship opportunities.</sub></p>
