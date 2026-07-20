@@ -42,7 +42,7 @@ I focus on consistency, continuous learning, and building projects that reflect 
   <img height="30" src="https://img.shields.io/badge/Probability-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Statictics-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img height="30" src="https://img.shields.io/badge/Statistics-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </p>
 <br>
 
