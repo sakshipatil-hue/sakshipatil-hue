@@ -1,16 +1,4 @@
-<h1 align="center">Sakshi Patil</h1>
-<h3 align="center">AI & ML Student · Data Analyst in the Making</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Decisions;Building+Real-World+ML+%26+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Engineering" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-patil-58aa86327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sakshipatil0325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6C5CE7&height=200&section=header&text=Sakshi%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Data%20Analyst%20in%20the%20Making&descAlignY=55&descSize=20" width="100%"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Decisions;Building+Real-World+ML+%26+Analytics+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Engineering" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/PASTE-YOUR-FULL-USERNAME-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
 ### 🚀 About Me
 
@@ -61,9 +49,6 @@ I've built end-to-end projects spanning **web scraping, data warehousing, and BI
 | 📊 **[Flipkart Sales & Returns Intelligence Dashboard](#)** | Star-schema data warehouse (5 tables) analyzing sales & returns patterns, with a full Power BI dashboard on top of a Kaggle + synthetic dataset (~100K orders). | MySQL · Power BI · DAX |
 | 📈 **[India Job Market Intelligence Platform](#)** | Real Selenium scraper pulling live Naukri.com listings into a MySQL warehouse (727 listings, 534 companies, 38 skills, 10 cities), with 6 analytical SQL views + Power BI dashboard. | Python · Selenium · MySQL · Power BI |
 | 🛰️ **[Nakshatra-Kavach](#)** | Space weather impact intelligence system for satellites — built for a hackathon, adapted for ISRO's Build-a-thon 2026. | Python |
-| 🧬 **PTNN Research Paper** | Co-authored paper on Pedigree-Tracing Neural Networks for AI copyright attribution. | Research |
-
-> 🔗 Replace the `#` links above with your actual repo URLs once you paste this in.
 
 ---
 
@@ -79,5 +64,3 @@ I've built end-to-end projects spanning **web scraping, data warehousing, and BI
 </p>
 
 ---
-
-<p align="center"><i>📌 Open to Data Analyst / Business Analyst internship opportunities — let's connect!</i></p>
