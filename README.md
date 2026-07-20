@@ -1,17 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=42&duration=1&pause=100000&color=6C5CE7&center=true&vCenter=true&width=500&height=70&lines=Sakshi+Patil" alt="Sakshi Patil" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=400&size=16&pause=1500&color=6C5CE7&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+decisions;Python+%C2%B7+SQL+%C2%B7+Power+BI" alt="tagline" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/PASTE-YOUR-FULL-USERNAME-HERE">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:sakshipatil8674788@gmail.com">Email</a>
-</p>
-
-<br>
+ <p align="center"> <a href="https://www.linkedin.com/in/PASTE-YOUR-FULL-USERNAME-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p> <br>
 
 ### About
 
