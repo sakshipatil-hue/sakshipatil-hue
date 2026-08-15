@@ -1,81 +1,163 @@
+<div align="center">
+
+<!-- Capsule Render Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2E0854,50:4B0082,100:6A0DAD&height=220&section=header&text=DATA%20ANALYST%20%7C%20AI%20ENGINEER&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Enterprise+Data+Analysis+%26+Predictive+Modeling;Production-Grade+AI%2FML+Pipelines;Statistical+Inference+%26+Business+Intelligence;High-Throughput+Data+Engineering" alt="Typing SVG" />
+</a>
+
+<br />
+
+<!-- Academic & Location Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=42&duration=1&pause=100000&color=6C5CE7&center=true&vCenter=true&width=500&height=70&lines=Sakshi+Patil" alt="Sakshi Patil" />
+  <img src="https://img.shields.io/badge/DEGREE-B.S.%20in%20Computer%20Science%20%26%20Data%20Science-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/FOCUS-Statistical%20Modeling%20%26%20Machine%20Learning-5B21B6?style=flat-square&logo=probot&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/LOCATION-San%20Francisco%2C%20CA%20(Open%20to%20Remote)-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-<p align="center">Turning raw data into decisions · Python · SQL · Power BI</p>
+
+<!-- Social & CTAs -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-patil-58aa86327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sakshipatil8674788@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-<br>
-
-### 👩‍💻 About me
-
-I'm an AI & ML student focused on data analysis and real-world problem solving. I like working with data, finding patterns, and turning raw information into insights that support better decisions.
-
-I've built end-to-end projects spanning web scraping, data warehousing, and BI dashboards — from a real Naukri.com job market pipeline to a voice-first AI assistant for Indian shopkeepers.
-I focus on consistency, continuous learning, and building projects that reflect real-world impact. 
-<br>
-
-### 🛠️ Tech Stack
-
-**Languages & Databases**
-<p>
-  <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <a href="https://yourportfolio.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=161B22" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=161B22" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=161B22" alt="Email" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=161B22" alt="GitHub" />
+  </a>
 </p>
 
-**Data & BI**
-<p>
-  <img height="30" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img height="30" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-</p>
-
-**ML & Backend**
-<p>
-  <img height="30" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Probability-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/Statistics-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</p>
-<br>
-
-### 💼 Projects
-
-**AI Bazaar**
-Voice-first, multilingual AI assistant helping Indian shopkeepers manage inventory, billing, and voice-based data entry. Built for AWS's "AI for Bharat" Hackathon.
-`FastAPI` `Supabase` `Vercel` `Render`
-
-**Flipkart Sales & Returns Intelligence Dashboard**
-Star-schema data warehouse analyzing sales and returns patterns, with a Power BI dashboard on top of a Kaggle + synthetic dataset (~100K orders).
-`MySQL` `Power BI` `DAX`
-
-**India Job Market Intelligence Platform**
-Selenium scraper pulling live Naukri.com listings into a MySQL warehouse (727 listings, 534 companies, 38 skills, 10 cities), with 6 analytical SQL views and a Power BI dashboard.
-`Python` `Selenium` `MySQL` `Power BI`
-
-**Nakshatra-Kavach**
-Space weather impact intelligence system for satellites — built for a hackathon, adapted for ISRO's Build-a-thon 2026.
-`Python`
-<br>
-
-### 📊 GitHub Stats
-
+<!-- Profile Metrics -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&theme=default&hide_border=true&hide_title=true" width="48%">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&color=6D28D9&style=flat-square&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yourusername?label=TOTAL+STARS&color=5B21B6&style=flat-square&logo=apachespark&logoColor=white" alt="Stars" />
 </p>
 
+</div>
+
+---
+
+### **Executive Summary**
+
+Aspiring Data Analyst with a strong foundation in statistical computing, data modeling, and business intelligence. Skilled in transforming raw, unstructured datasets into interactive executive dashboards, clear exploratory data analysis (EDA), and actionable analytical insights. Experienced through academic projects, hackathons, and certifications in writing complex SQL queries, building automated data-cleaning workflows, and conducting hypothesis-driven analysis to solve real-world business problems.
+
+* **Core Competencies:** Statistical Analysis, Exploratory Data Analysis (EDA), Data Cleaning & Wrangling, BI Dashboards (Tableau/Power BI), Relational Databases (SQL), Predictive Modeling.
+* **Engineering Philosophy:** Data accuracy first, reproducible analytics workflows, structured documentation, and clear alignment between technical findings and practical decisions.
+* **Open To:** Data Analyst Intern, Junior Data Analyst, Analytics Engineer Intern, and Business Intelligence Intern roles.
+
+---
+
+### **Technical Proficiencies**
+
+<div align="center">
+
+#### **Languages & Core Foundations**
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sakshipatil-hue&hide_border=true">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,bash,cpp" alt="Languages" />
 </p>
 
-<br>
+#### **Data Analysis, Cleaning & Visualization**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,tableau,powerbi,d3" alt="Data Analytics and Visualization" />
+</p>
 
-<p align="center"><sub>Open to Data Analyst / Business Analyst internship opportunities.</sub></p>
+#### **Machine Learning, Deep Learning & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,opencv,transformers" alt="ML Frameworks" />
+</p>
+
+#### **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+</p>
+
+</div>
+
+---
+
+### **GitHub Analytics & Runtime Profile**
+
+<div align="center">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&title_color=A78BFA&text_color=E2E8F0&bg_color=0D1117&border_color=3B0764&hide_border=false&count_private=true&include_all_commits=true" width="410" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&background=0D1117&border=3B0764&stroke=A78BFA&ring=7C3AED&fire=6D28D9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=A78BFA" width="410" alt="Streak Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&title_color=A78BFA&text_color=E2E8F0&bg_color=0D1117&border_color=3B0764&hide_border=false&langs_count=8" width="550" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### **GitHub Trophies & Milestones**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=false&margin_w=4&margin_h=4&row=1&column=7&title_color=A78BFA&icon_color=C084FC&bg_color=0D1117&border_color=3B0764" width="100%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### **Activity Profile**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C084FC&area=true&hide_border=false&border_color=3B0764" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+### **Contribution Pipeline**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+### **Current Focus & Roadmap**
+
+```yaml
+system:
+  status: "Operational"
+  focus_area: "Enterprise Data Analytics & Distributed Machine Learning"
+  timestamp: 2026-Q3
+
+current_state:
+  learning:
+    - "Causal Inference frameworks (DoWhy, EconML)"
+    - "Vector database indexing architectures (HNSW, IVFPQ)"
+  building:
+    - "Automated statistical data profiling engine in Rust and Python"
+    - "Distributed feature store running on Apache Feast and Redis"
+  exploring:
+    - "Mechanistic Interpretability in Deep Foundation Models"
+    - "Quantized model inference on edge hardware using TensorRT"
+  open_to:
+    - "Senior Data Analyst / Lead ML Engineer roles"
+    - "Consulting on high-throughput data warehousing & analytics architecture"
