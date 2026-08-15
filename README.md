@@ -55,6 +55,7 @@ I am currently focused on becoming a well-rounded **Data Analyst** who can combi
 
 - Data Analyst Internships
 - Data Analytics Opportunities
+- Business Intelligence Intern
 - AI/ML Internships
 - Research Opportunities
 - Open Source Contributions
