@@ -126,7 +126,7 @@ I am currently focused on becoming a well-rounded **Data Analyst** who can combi
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
 </p>
 
-**Git • GitHub • VS Code • Jupyter Notebook**
+**Git • GitHub • VS Code • Jupyter Notebook • Microsoft Excel**
 
 ---
 
