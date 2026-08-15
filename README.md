@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2E0854,50:4B0082,100:6A0DAD&height=220&section=header&text=DATA%20ANALYST%20%7C%20AI%20ENGINEER&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2E0854,50:4B0082,100:6A0DAD&height=220&section=header&text=DATA%20ANALYST&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
@@ -12,9 +12,8 @@
 
 <!-- Academic & Location Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DEGREE-B.S.%20in%20Computer%20Science%20%26%20Data%20Science-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/DEGREE-B.Tech.%20in%20Computer%20CSE-AIML%20%26%20Data%20Science-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
   <img src="https://img.shields.io/badge/FOCUS-Statistical%20Modeling%20%26%20Machine%20Learning-5B21B6?style=flat-square&logo=probot&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/LOCATION-San%20Francisco%2C%20CA%20(Open%20to%20Remote)-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <!-- Social & CTAs -->
