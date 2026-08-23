@@ -22,6 +22,7 @@ jobs:
           username: sakshipatil-hue
           output_path: assets/trophies.svg
           theme: darkhub
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Trophy SVG
         uses: EndBug/add-and-commit@v9
