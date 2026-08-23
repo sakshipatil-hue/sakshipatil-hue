@@ -19,8 +19,9 @@ jobs:
       - name: Generate Trophies
         uses: ryo-ma/github-profile-trophy@master
         with:
-          github_user_name: sakshipatil-hue
+          username: sakshipatil-hue
           output_path: assets/trophies.svg
+          theme: darkhub
 
       - name: Commit Trophy SVG
         uses: EndBug/add-and-commit@v9
