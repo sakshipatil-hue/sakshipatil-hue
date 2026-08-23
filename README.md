@@ -285,7 +285,7 @@ A machine learning project focused on using student-related data to build a pred
 
 <div align="center">
 
-<img src="./assets/contribution-snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="./assets/contribution-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
