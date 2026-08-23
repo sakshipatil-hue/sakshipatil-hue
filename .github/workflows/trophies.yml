@@ -1,0 +1,29 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          github_user_name: sakshipatil-hue
+          output_path: assets/trophies.svg
+
+      - name: Commit Trophy SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub trophies"
+          add: "assets/trophies.svg"
