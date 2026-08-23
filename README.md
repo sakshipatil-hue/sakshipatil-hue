@@ -246,15 +246,15 @@ A machine learning project focused on using student-related data to build a pred
 
 ## GitHub Analytics
 
-
 <div align="center">
 
-<img src="./assets/github-stats.svg" width="48%" alt="GitHub Stats"/>
-<img src="./assets/top-languages.svg" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 <br><br>
 
-<img src="./assets/streak.svg" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=sakshipatil-hue&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
