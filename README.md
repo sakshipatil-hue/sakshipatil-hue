@@ -246,15 +246,16 @@ A machine learning project focused on using student-related data to build a pred
 
 ## GitHub Analytics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sakshipatil-hue&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=sakshipatil-hue&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
@@ -262,9 +263,10 @@ A machine learning project focused on using student-related data to build a pred
 
 ## GitHub Trophies
 
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakshipatil-hue&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+<img src="./profile/trophy.svg" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -282,11 +284,7 @@ A machine learning project focused on using student-related data to build a pred
 
 ## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sakshipatil-hue/sakshipatil-hue/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/sakshipatil-hue/sakshipatil-hue/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
