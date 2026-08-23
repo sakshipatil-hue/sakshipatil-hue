@@ -249,13 +249,12 @@ A machine learning project focused on using student-related data to build a pred
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakshipatil-hue&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil-hue&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
+<img src="./assets/github-stats.svg" width="48%" alt="GitHub Stats"/>
+<img src="./assets/top-languages.svg" width="48%" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sakshipatil-hue&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="./assets/streak.svg" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -266,7 +265,7 @@ A machine learning project focused on using student-related data to build a pred
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="90%" alt="GitHub Trophies"/>
+<img src="./assets/trophies.svg" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -284,7 +283,11 @@ A machine learning project focused on using student-related data to build a pred
 
 ## Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sakshipatil-hue/sakshipatil-hue/output/github-contribution-grid-snake-dark.svg"/>
+<div align="center">
+
+<img src="./assets/contribution-snake.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
 
 ---
 
